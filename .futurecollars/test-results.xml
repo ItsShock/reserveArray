@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="3" failures="0" time="2.392">
+  <testsuite name="Funkcja reverseArray" errors="0" failures="0" skipped="0" timestamp="2021-04-19T10:10:20" time="0.974" tests="3">
+    <testcase classname="Funkcja reverseArray powinna zwrócić tablicę" name="Funkcja reverseArray powinna zwrócić tablicę" time="0.002">
+    </testcase>
+    <testcase classname="Funkcja reverseArray nie powinna modyfikować przekazanego parametru" name="Funkcja reverseArray nie powinna modyfikować przekazanego parametru" time="0.001">
+    </testcase>
+    <testcase classname="Funkcja reverseArray powinna zwrócić odwróconą tablicę" name="Funkcja reverseArray powinna zwrócić odwróconą tablicę" time="0">
+    </testcase>
+  </testsuite>
+</testsuites>
